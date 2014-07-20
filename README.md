@@ -1,0 +1,4 @@
+XBMCADDON
+=========
+
+XBMCTesting
